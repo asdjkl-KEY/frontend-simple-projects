@@ -30,8 +30,8 @@ let fruit = {
     y: 40
 }
 
-canvas.width = 400;
-canvas.height = 400;
+canvas.width = 600;
+canvas.height = 600;
 
 let score = 0;
 
